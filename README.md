@@ -1,7 +1,7 @@
 # open-union
 Uma proposta pública de associação de profissionais de TI.
 
-> **Se o repo chegar a 100 stars, fazemos.***
+> **Se o repo chegar a 100 stars, fazemos.**
 
 ## Itens propostos
 - Reuniões públicas e ao vivo dos associados, com votação de pautas por blockchain
