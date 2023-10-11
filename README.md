@@ -11,3 +11,8 @@ Uma proposta pública de associação de profissionais de TI.
 - Notícias e orientações trabalhistas
 - Cursos grátis
 - Compartilhamento de experiências em empresas do BR e do exterior
+- Certificação aberta de profissionais
+- Certificado digital grátis com validação de biometria por IA
+- Assinatura digital gratuita
+- (coloque sua sugestão nas issues)
+ 
